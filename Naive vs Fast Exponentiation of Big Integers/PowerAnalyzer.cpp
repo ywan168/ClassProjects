@@ -3,7 +3,7 @@
  * listed in "The PowerAnalyzer Program" which was
  * written in csc3102proj00cs19.pdf.
  * CSC 3102 Programming Project # 0
- * @author Yanfang Wang
+ * @author 
  * @since 01/23/2019
  * @see BigMath.h BigInt.h
  */

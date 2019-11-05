@@ -1,12 +1,4 @@
-/*
- * Name: Wang, Yanfang
- * Email: ywan169@lsu.edu
- * Project: PA-2 (Page Repalcement Algorithm)
- * File: CLOCK.cpp
- * Instructor: Feng Chen
- * Class: cs4103-sp19
- * LogonID: cs410369
- */
+
 
 #include <cstdlib>
 #include <iostream>

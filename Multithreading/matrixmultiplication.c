@@ -1,11 +1,4 @@
-/* 
- * Name: Wang, Yanfang
- * Email: ywan168@lsu.edu
- * Project: PA-1 (Multithreading)
- * Instructor: Feng Chen
- * Class: cs4103-sp19
- * Login ID: cs410369
- */
+
 
 #include <pthread.h>
 #include <stdlib.h>

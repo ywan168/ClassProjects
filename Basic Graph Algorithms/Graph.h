@@ -1,7 +1,6 @@
 /**
  * Describe the a weighted digraph and its fundamental operations
  * @param <E> the data type
- * @author Duncan
  * @since 99-99-9999
  */
 

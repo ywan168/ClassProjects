@@ -1,7 +1,6 @@
 /**
  * Models an AVL tree.
  * @param <E> data type of elements of the tree
- * @author Duncan, Yanfang Wang
  * @since 02-22-2019
  * @see AVLTree.h
  */

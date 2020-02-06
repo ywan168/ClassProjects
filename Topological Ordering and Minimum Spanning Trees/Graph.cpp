@@ -2,7 +2,7 @@
  * Implementation of an extensible pointer-based adjacency
  * list representation of a weighted digraph whose vertices
  * hold objects that override the relational operators.
- * Course: CS3102.01
+ * Course: CS3102
  * Programming Project #: 3
  * @since 03-27-2019
  * @see Graph.h, City.h, Graph.cpp

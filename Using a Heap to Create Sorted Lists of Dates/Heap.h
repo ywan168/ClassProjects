@@ -1,6 +1,5 @@
 /** 
  * Describes the basic operations of a max-heap
- * @author Duncan
  * @param <E> the heap element type
  * @since 99-99-9999
  */

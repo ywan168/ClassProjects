@@ -1,11 +1,8 @@
 /**
  * An implementation of page replacement algorithm using CLOCK Algorithm (Second Chance)
  * @PA-2 (Page Repalcement Algorithm-CLOCK)
- * @author Yanfang Wang
- * @LSU ID: 89-7080-995
  * @since 03-31-2019
  * @see CLOCK.cpp
- * @Email: ywan168@lsu.edu
  */*
 
 Files included in the prog2 directory: CLOCK.cpp compile.sh pageref.txt pageref-small.txt test.txt

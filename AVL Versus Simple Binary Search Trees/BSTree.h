@@ -1,6 +1,5 @@
 /**
  * Models a binary search tree
- * @author William Duncan
  * @since 99-99-9999
  */
 

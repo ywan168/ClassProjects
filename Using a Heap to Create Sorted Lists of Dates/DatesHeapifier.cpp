@@ -1,7 +1,5 @@
 /**
  * A testbed for a binary heap implementation and the heap sort algorithm using various comparators
- * @author Duncan
- * @author Yanfang Wang
  * @since 02-12-2019
  * @see Date, HeapAPI, Hea.cppp
  */

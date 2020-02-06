@@ -1,6 +1,5 @@
 /**
  *
- * @author Duncan <br>
  * file: Date.java<br>
  * Purpose: models a Gregorian Date<br>
  * Date: October 13, 2013<br>

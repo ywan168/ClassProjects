@@ -1,6 +1,5 @@
 /**
  * Models an AVL tree
- * @author William Duncan
  * @since 99-99-9999
  */
 

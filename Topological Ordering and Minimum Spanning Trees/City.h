@@ -1,6 +1,5 @@
 /**
  * Describes a city with a given name and unique integer identifier
- * @author Duncan
  * @since 99-99-9999
  */
 

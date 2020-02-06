@@ -6,7 +6,6 @@
  * addition, subtraction, multiplication and integer division.
  * Note: Integer division is implemented using
  * addition, subtraction and multiplication.
- * @author Duncan
  * @since 99/99/9999
  * @see BigInt.h
  */

@@ -3,7 +3,6 @@
  * for a naive and a fast power functions for BigInt types with
  * integer exponents
  * CSC 3102 Programming Project # 0
- * @author Duncan, Yanfang Wang
  * @since 01/20/2019
  * @see BigInt.h
  */

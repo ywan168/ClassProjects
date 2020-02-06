@@ -1,7 +1,6 @@
 /**
  * Models an binary search tree.
  * @param <E> data type of elements of the tree
- * @author Duncan, Yanfang
  * @since 03-03-2019
  * @see BSTree.h
 */

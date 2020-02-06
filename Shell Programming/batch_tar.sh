@@ -1,7 +1,5 @@
-#Name:         Wang, Yanfang
 #Project:      PA-3 (Shell Programming)
 #File:         batch_tar.sh
-#Instructor:   Feng Chen
 #Class:        cs410369-sp19
 #LogonID:      cs410369
 #CMD: ./batch_tar.sh lfw/ output_lfw/

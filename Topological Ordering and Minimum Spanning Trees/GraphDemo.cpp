@@ -1,8 +1,6 @@
 /**
  * A test bed for methods of a  weighted diagraph and implementations of 
  * basic WDAG algorithms.
- * @Instructor: Duncan
- * @author Yanfang Wang
  * Course: CS3102.01
  * Programming Project #: 4
  * @since 04-22-2019

@@ -1,8 +1,6 @@
 
 /**
    file Heap.cpp
-   @author William Duncan
-   @author Yanfang Wang
    @date 2019-02-12
    Description: implementation for the max Heap class
 */

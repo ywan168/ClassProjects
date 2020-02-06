@@ -2,8 +2,6 @@
  * Implementation of an extensible pointer-based adjacency
  * list representation of a weighted digraph whose vertices
  * hold objects that override the relational operators.
- * @Instructor: Duncan
- * @author Yanfang Wang
  * Course: CS3102.01
  * Programming Project #: 3
  * @since 03-27-2019
